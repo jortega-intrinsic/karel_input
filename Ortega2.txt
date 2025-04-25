@@ -1,1 +1,1 @@
-yellow, black, white
+[yellow, black, white]
